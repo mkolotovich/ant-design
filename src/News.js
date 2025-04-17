@@ -1,6 +1,6 @@
 import './News.css';
 import { Card, Typography, Button, Dropdown, Space } from 'antd';
-import { EyeOutlined, LinkOutlined, GlobalOutlined, DownOutlined, InfoOutlined, BookOutlined, ManOutlined, ArrowDownOutlined } from '@ant-design/icons';
+import { GlobalOutlined, DownOutlined, InfoOutlined, BookOutlined, ManOutlined, ArrowDownOutlined } from '@ant-design/icons';
 import { useRef, useEffect, useState, Fragment } from 'react';
 
 const { Title, Text, Link } = Typography;
